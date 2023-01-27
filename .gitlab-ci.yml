@@ -4,3 +4,6 @@ stages:
 test-code-job:
   stage: test
   script: echo "tested"
+  tags:
+    - k8s-root
+
