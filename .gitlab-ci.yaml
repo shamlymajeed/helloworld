@@ -1,6 +1,0 @@
-stages:
-  - test
-
-test-code-job:
-  stage: test
-  script: echo "tested"
