@@ -1,5 +1,5 @@
 always-run:
-  script: echo 'this should always run'
+  script: echo 'this run always'
   tags:
     - k8s-root
 
